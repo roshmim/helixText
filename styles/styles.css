@@ -241,3 +241,9 @@ main .section {
 main .section.highlight {
   background-color: var(--highlight-background-color);
 }
+
+/* section metadata */
+main .bold {
+  font-weight: bold;
+  background-color: yellow;
+}
