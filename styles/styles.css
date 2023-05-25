@@ -243,7 +243,7 @@ main .section.highlight {
 }
 
 /* section metadata */
-main .bold {
+main .section.bold {
   font-weight: bold;
   background-color: yellow;
 }
