@@ -17,6 +17,8 @@
   --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
+  --bold-background-color: #339665;
+
   --text-color: #000;
 
   /* fonts */
@@ -243,7 +245,7 @@ main .section.highlight {
 }
 
 /* section metadata */
-main .section.bold {
+main .test.bold {
   font-weight: bold;
-  background-color: yellow;
+  background-color: var(--bold-background-color);
 }
