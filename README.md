@@ -1,5 +1,5 @@
 # Your Project's Title...
-Your project's description...
+My Helix Test Project
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
