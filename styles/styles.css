@@ -245,7 +245,7 @@ main .section.highlight {
 }
 
 /* section metadata */
-main .columns.block > div {
+main .columns.green.block > div {
   font-weight: bold;
  border-style: solid;
   background-color: var(--bold-background-color);
